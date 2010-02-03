@@ -1,0 +1,313 @@
+TCatan
+v7
+r0
+t286587598.770042
+cCheck dependencies
+cProcessInfoPlistFile /Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/Info.plist Catan-Info.plist
+cCompileXIB /Users/anna/dev/iPad/Catan/MainWindow.xib
+cCompileXIB /Users/anna/dev/iPad/Catan/DetailView.xib
+cCompileXIB /Users/anna/dev/iPad/Catan/view2.xib
+cProcessPCH /var/folders/vk/vkqcTHvUE2S5Ljw2x3WnuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Catan_Prefix-bzjrgksttspdktemwonyrgdmlxky/Catan_Prefix.pch.gch Catan_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/main.o /Users/anna/dev/iPad/Catan/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/CatanAppDelegate.o /Users/anna/dev/iPad/Catan/Classes/CatanAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/MasterViewController.o /Users/anna/dev/iPad/Catan/Classes/MasterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/DetailViewController.o /Users/anna/dev/iPad/Catan/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/Catan normal i386
+cGenerateDSYMFile /Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app.dSYM /Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/Catan
+cTouch /Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B64B7F70000000000000110
+t1264891895
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B567172000000000026F020
+t1263956338
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B56718B0000000000288B20
+t1263956363
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B56717E0000000000001355
+t1263956350
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B56A2960000000000000970
+t1263968918
+s2416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B56A324000000000211C6C0
+t1263969060
+s34719424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/Availability.h
+c000000004B4D00900000000000001A1A
+t1263337616
+s6682
+
+N/Users/anna/dev/iPad/Catan/Catan_Prefix.pch
+c000000004B64BDFC000000000000013C
+t1264893436
+s316
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/anna/dev/iPad/Catan/Classes/CatanAppDelegate.h
+c000000004B64BDFC0000000000000302
+t1264893436
+s770
+i<UIKit/UIKit.h>
+
+N/Users/anna/dev/iPad/Catan/Classes/CatanAppDelegate.m
+c000000004B64BDFC0000000000000684
+t1264893436
+s1668
+i"CatanAppDelegate.h"
+i"MasterViewController.h"
+i"DetailViewController.h"
+
+N/Users/anna/dev/iPad/Catan/Classes/DetailViewController.h
+c000000004B64BDFC000000000000023E
+t1264893436
+s574
+i<UIKit/UIKit.h>
+
+N/Users/anna/dev/iPad/Catan/Classes/DetailViewController.m
+c000000004B64BDFC0000000000000BCF
+t1264893436
+s3023
+i"DetailViewController.h"
+i"MasterViewController.h"
+
+N/Users/anna/dev/iPad/Catan/Classes/MasterViewController.h
+c000000004B64BDFC000000000000017F
+t1264893436
+s383
+i<UIKit/UIKit.h>
+
+N/Users/anna/dev/iPad/Catan/Classes/MasterViewController.m
+c000000004B64BDFC0000000000000BB5
+t1264893436
+s2997
+i"MasterViewController.h"
+i"DetailViewController.h"
+
+N/Users/anna/dev/iPad/Catan/DetailView.xib
+c000000004B64C20D00000000000063D9
+t1264894477
+s25561
+
+N/Users/anna/dev/iPad/Catan/MainWindow.xib
+c000000004B64C0F70000000000005465
+t1264894199
+s21605
+
+N/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/Catan.LinkFileList
+c000000004B64BFCA00000000000001D4
+t1264893898
+s468
+
+N/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/CatanAppDelegate.o
+t1264893901
+s47368
+
+N/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/DetailViewController.o
+t1264893901
+s40016
+
+N/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/MasterViewController.o
+t1264893901
+s38308
+
+N/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/main.o
+t1264893901
+s5920
+
+N/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app
+t1264894798
+s272
+
+N/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app.dSYM
+t1264893901
+s102
+
+N/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/Catan
+t1264893901
+s28052
+
+N/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/DetailView.nib
+t1264894493
+s1889
+
+N/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/Info.plist
+t1264893898
+s583
+
+N/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/MainWindow.nib
+t1264894206
+s1175
+
+N/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/PkgInfo
+t1264893898
+s8
+
+N/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/view2.nib
+t1264894798
+s1161
+
+N/Users/anna/dev/iPad/Catan/main.m
+c000000004B64BE520000000000000162
+t1264893522
+s354
+i<UIKit/UIKit.h>
+
+N/Users/anna/dev/iPad/Catan/view2.xib
+c000000004B64C3400000000000003B5D
+t1264894784
+s15197
+
+N/var/folders/vk/vkqcTHvUE2S5Ljw2x3WnuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Catan_Prefix-bzjrgksttspdktemwonyrgdmlxky/Catan_Prefix.pch.gch
+t1264893900
+s13719376
+
+NCatan-Info.plist
+c000000004B64BDFC000000000000038D
+t1264893436
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286587596#286587596#0(0"0(0#1#0"4300903632#0"0#
+
+CCompileC build/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/CatanAppDelegate.o /Users/anna/dev/iPad/Catan/Classes/CatanAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s286586701.111218
+e286586701.246495
+r1
+xCompileC
+xbuild/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/CatanAppDelegate.o
+x/Users/anna/dev/iPad/Catan/Classes/CatanAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/anna/dev/iPad/Catan/Classes/CatanAppDelegate.m286586701#286586701#0(0"0(0#0#53"/Users/anna/dev/iPad/Catan/Classes/CatanAppDelegate.m4300903632#1779"    cd /Users/anna/dev/iPad/Catan    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Catan-generated-files.hmap -I/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Catan-own-target-headers.hmap -I/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Catan-all-target-headers.hmap -iquote /Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Catan-project-headers.hmap -F/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator -I/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/include -I/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/DerivedSources/i386 -I/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/DerivedSources -include /var/folders/vk/vkqcTHvUE2S5Ljw2x3WnuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Catan_Prefix-bzjrgksttspdktemwonyrgdmlxky/Catan_Prefix.pch -c /Users/anna/dev/iPad/Catan/Classes/CatanAppDelegate.m -o /Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/CatanAppDelegate.o0#
+
+CCompileC build/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/DetailViewController.o /Users/anna/dev/iPad/Catan/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s286586701.246612
+e286586701.374291
+r1
+xCompileC
+xbuild/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/DetailViewController.o
+x/Users/anna/dev/iPad/Catan/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/anna/dev/iPad/Catan/Classes/DetailViewController.m286586701#286586701#0(0"0(0#0#57"/Users/anna/dev/iPad/Catan/Classes/DetailViewController.m4300903632#1787"    cd /Users/anna/dev/iPad/Catan    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Catan-generated-files.hmap -I/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Catan-own-target-headers.hmap -I/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Catan-all-target-headers.hmap -iquote /Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Catan-project-headers.hmap -F/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator -I/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/include -I/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/DerivedSources/i386 -I/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/DerivedSources -include /var/folders/vk/vkqcTHvUE2S5Ljw2x3WnuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Catan_Prefix-bzjrgksttspdktemwonyrgdmlxky/Catan_Prefix.pch -c /Users/anna/dev/iPad/Catan/Classes/DetailViewController.m -o /Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/MasterViewController.o /Users/anna/dev/iPad/Catan/Classes/MasterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s286586701.187381
+e286586701.330294
+r1
+xCompileC
+xbuild/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/MasterViewController.o
+x/Users/anna/dev/iPad/Catan/Classes/MasterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/anna/dev/iPad/Catan/Classes/MasterViewController.m286586701#286586701#0(0"0(0#0#57"/Users/anna/dev/iPad/Catan/Classes/MasterViewController.m4300903632#1787"    cd /Users/anna/dev/iPad/Catan    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Catan-generated-files.hmap -I/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Catan-own-target-headers.hmap -I/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Catan-all-target-headers.hmap -iquote /Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Catan-project-headers.hmap -F/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator -I/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/include -I/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/DerivedSources/i386 -I/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/DerivedSources -include /var/folders/vk/vkqcTHvUE2S5Ljw2x3WnuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Catan_Prefix-bzjrgksttspdktemwonyrgdmlxky/Catan_Prefix.pch -c /Users/anna/dev/iPad/Catan/Classes/MasterViewController.m -o /Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/MasterViewController.o0#
+
+CCompileC build/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/main.o /Users/anna/dev/iPad/Catan/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s286586701.109593
+e286586701.187255
+r1
+xCompileC
+xbuild/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/main.o
+x/Users/anna/dev/iPad/Catan/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Compile /Users/anna/dev/iPad/Catan/main.m286586701#286586701#0(0"0(0#0#33"/Users/anna/dev/iPad/Catan/main.m4300903632#1747"    cd /Users/anna/dev/iPad/Catan    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Catan-generated-files.hmap -I/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Catan-own-target-headers.hmap -I/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Catan-all-target-headers.hmap -iquote /Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Catan-project-headers.hmap -F/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator -I/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/include -I/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/DerivedSources/i386 -I/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/DerivedSources -include /var/folders/vk/vkqcTHvUE2S5Ljw2x3WnuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Catan_Prefix-bzjrgksttspdktemwonyrgdmlxky/Catan_Prefix.pch -c /Users/anna/dev/iPad/Catan/main.m -o /Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/anna/dev/iPad/Catan/DetailView.xib
+s286587289.541570
+e286587293.415292
+r1
+xCompileXIB
+x/Users/anna/dev/iPad/Catan/DetailView.xib
+lSLF07#2@25"CompileXIB DetailView.xib286587289#286587293#0(0"0(0#0#41"/Users/anna/dev/iPad/Catan/DetailView.xib4300903632#504"    cd /Users/anna/dev/iPad/Catan    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/DetailView.nib /Users/anna/dev/iPad/Catan/DetailView.xib0#
+
+CCompileXIB /Users/anna/dev/iPad/Catan/MainWindow.xib
+s286587005.868366
+e286587006.420304
+r1
+xCompileXIB
+x/Users/anna/dev/iPad/Catan/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib286587005#286587006#0(0"0(0#0#41"/Users/anna/dev/iPad/Catan/MainWindow.xib4300903632#504"    cd /Users/anna/dev/iPad/Catan    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/MainWindow.nib /Users/anna/dev/iPad/Catan/MainWindow.xib0#
+
+CCompileXIB /Users/anna/dev/iPad/Catan/view2.xib
+s286587596.643343
+e286587598.765011
+r1
+xCompileXIB
+x/Users/anna/dev/iPad/Catan/view2.xib
+lSLF07#2@20"CompileXIB view2.xib286587596#286587598#0(0"0(0#0#36"/Users/anna/dev/iPad/Catan/view2.xib4300903632#494"    cd /Users/anna/dev/iPad/Catan    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/view2.nib /Users/anna/dev/iPad/Catan/view2.xib0#
+
+CGenerateDSYMFile /Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app.dSYM /Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/Catan
+s286586701.404084
+e286586701.448681
+r1
+xGenerateDSYMFile
+x/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app.dSYM
+x/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/Catan
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Catan.app.dSYM build/Debug-iphonesimulator/Catan.app/Catan286586701#286586701#0(0"0(0#0#70"/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/Catan4300903632#403"    cd /Users/anna/dev/iPad/Catan    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/Catan -o /Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app.dSYM0#
+
+CLd /Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/Catan normal i386
+s286586701.374405
+e286586701.403965
+r1
+xLd
+x/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/Catan
+xnormal
+xi386
+lSLF07#2@75"Link /Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/Catan286586701#286586701#0(0"0(0#0#0"4300903632#854"    cd /Users/anna/dev/iPad/Catan    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator -F/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator -filelist /Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Objects-normal/i386/Catan.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/Catan0#
+
+CProcessInfoPlistFile /Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/Info.plist Catan-Info.plist
+s286586698.356682
+e286586698.380945
+r1
+xProcessInfoPlistFile
+x/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/Info.plist
+xCatan-Info.plist
+lSLF07#2@24"Process Catan-Info.plist286586698#286586698#0(0"0(0#0#43"/Users/anna/dev/iPad/Catan/Catan-Info.plist4300903632#499"    cd /Users/anna/dev/iPad/Catan    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Catan-Info.plist -genpkginfo /Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app/Info.plist0#
+
+CProcessPCH /var/folders/vk/vkqcTHvUE2S5Ljw2x3WnuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Catan_Prefix-bzjrgksttspdktemwonyrgdmlxky/Catan_Prefix.pch.gch Catan_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s286586699.056228
+e286586701.109317
+r1
+xProcessPCH
+x/var/folders/vk/vkqcTHvUE2S5Ljw2x3WnuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Catan_Prefix-bzjrgksttspdktemwonyrgdmlxky/Catan_Prefix.pch.gch
+xCatan_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Catan_Prefix.pch286586699#286586701#0(0"0(0#0#43"/Users/anna/dev/iPad/Catan/Catan_Prefix.pch4300903632#1653"    cd /Users/anna/dev/iPad/Catan    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Catan-generated-files.hmap -I/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Catan-own-target-headers.hmap -I/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Catan-all-target-headers.hmap -iquote /Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/Catan-project-headers.hmap -F/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator -I/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/include -I/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/DerivedSources/i386 -I/Users/anna/dev/iPad/Catan/build/Catan.build/Debug-iphonesimulator/Catan.build/DerivedSources -c /Users/anna/dev/iPad/Catan/Catan_Prefix.pch -o /var/folders/vk/vkqcTHvUE2S5Ljw2x3WnuU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Catan_Prefix-bzjrgksttspdktemwonyrgdmlxky/Catan_Prefix.pch.gch0#
+
+CTouch /Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app
+s286587598.766188
+e286587598.769689
+r1
+xTouch
+x/Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app
+lSLF07#2@70"Touch /Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app286587598#286587598#0(0"0(0#0#0"4300903632#314"    cd /Users/anna/dev/iPad/Catan    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/anna/dev/iPad/Catan/build/Debug-iphonesimulator/Catan.app0#
+

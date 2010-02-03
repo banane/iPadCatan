@@ -1,0 +1,196 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CatanAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 494}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 211}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CatanAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 832}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 224}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Catan */ = {
+		activeExec = 0;
+		executables = (
+			95F19E101114F57C00EDE587 /* Catan */,
+		);
+	};
+	28042009108E984D000629CD /* DetailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 325}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{43, 338}";
+		};
+	};
+	28A0AAE50D9B0CCF005BE974 /* Catan_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 195}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3, 313}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 95F19E101114F57C00EDE587 /* Catan */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Catan */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Catan */,
+		);
+		codeSenseManager = 95F19E291114F59400EDE587 /* Code sense */;
+		executables = (
+			95F19E101114F57C00EDE587 /* Catan */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 286586236;
+			PBXWorkspaceStateSaveDate = 286586236;
+		};
+		perUserProjectItems = {
+			95F19E3C1114F74D00EDE587 /* PBXTextBookmark */ = 95F19E3C1114F74D00EDE587 /* PBXTextBookmark */;
+			95F19E3E1114F74D00EDE587 /* PBXTextBookmark */ = 95F19E3E1114F74D00EDE587 /* PBXTextBookmark */;
+			95F19E3F1114F74D00EDE587 /* PBXTextBookmark */ = 95F19E3F1114F74D00EDE587 /* PBXTextBookmark */;
+			95F19E401114F74D00EDE587 /* PBXTextBookmark */ = 95F19E401114F74D00EDE587 /* PBXTextBookmark */;
+			95F19E591116B45D00EDE587 /* PBXTextBookmark */ = 95F19E591116B45D00EDE587 /* PBXTextBookmark */;
+			95F19E5A1116B45D00EDE587 /* PlistBookmark */ = 95F19E5A1116B45D00EDE587 /* PlistBookmark */;
+		};
+		sourceControlManager = 95F19E281114F59400EDE587 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 234}}";
+			sepNavSelRange = "{57, 0}";
+			sepNavVisRange = "{14, 340}";
+		};
+	};
+	95F19E101114F57C00EDE587 /* Catan */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Catan;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	95F19E281114F59400EDE587 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	95F19E291114F59400EDE587 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	95F19E3C1114F74D00EDE587 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28042009108E984D000629CD /* DetailViewController.h */;
+		name = "DetailViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 338;
+		vrLoc = 43;
+	};
+	95F19E3E1114F74D00EDE587 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CatanAppDelegate.h */;
+		name = "CatanAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 211;
+		vrLoc = 0;
+	};
+	95F19E3F1114F74D00EDE587 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CatanAppDelegate.m */;
+		name = "CatanAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 224;
+		vrLoc = 0;
+	};
+	95F19E401114F74D00EDE587 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28A0AAE50D9B0CCF005BE974 /* Catan_Prefix.pch */;
+		name = "Catan_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 313;
+		vrLoc = 3;
+	};
+	95F19E591116B45D00EDE587 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 5";
+		rLen = 0;
+		rLoc = 57;
+		rType = 0;
+		vrLen = 340;
+		vrLoc = 14;
+	};
+	95F19E5A1116B45D00EDE587 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Catan-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/anna/dev/iPad/Catan/Catan-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+}
